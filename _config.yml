@@ -15,22 +15,22 @@
 #       {   ',',___,'   '
 #   pils ',           ,'
 #          '-,,__,,-'
-
-#
-# Site settings
 #
 #
 # Site settings
 #
-url: https://LeakyAbstractions.github.io
-baseurl: /PrettyDocs-Theme
+#
+# Site settings
+#
+#highlight: Pretty
+baseurl: ""
 title: &site_title PrettyDocs
 description: &site_description Responsive website template for documentations
-branding:
-  icon:
-    name: icon_documents_alt
-  highlight: Pretty
-  bold: Docs
+url: ""
+#branding:
+#  icon: name: icon_documents_alt
+#  bold: Docs
+
 markdown: kramdown
 kramdown:
   auto_ids: true
@@ -41,17 +41,19 @@ kramdown:
   hard_wrap: false
   footnote_nr: 1
   parse_block_html: true
+  syntax_highlighter_opts:
+    disable: true
 
 
 #
 # Owner
 #
 owner:
-  name: Guillermo Calvo
-  twitter: &site_owner_twitter gcalvo
+  name: Joseph Cayouette
+  twitter: &site_owner_twitter jcayouette
   copyright:
-    notice: "[Your Project](https://your-name.github.io/your-project/)"
-    author: "[Your Name](https://www.your-site.com/)"
+    notice: "[Docreview](https://your-name.github.io/your-project/)"
+    author: "[Joseph Cayouette](https://www.your-site.com/)"
 
 
 #
@@ -78,10 +80,10 @@ share:
     share: false
   twitter:
     via: *site_owner_twitter
-    text: PrettyDocs - A FREE #Bootstrap theme for project documentations #Responsive
+    text: Docreview
     title: Tweet
   github:
-    repo: username/repository
+    repo: jcayouette/docrevew
     position: right
     color: green
 
