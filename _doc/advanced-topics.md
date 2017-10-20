@@ -1,9 +1,9 @@
 ---
 title: Advanced Topics
-excerpt: Layout for FAQ page. Lorem ipsum dolor sit amet, consectetuer adipiscing elit
+excerpt: Integrate Various Technologies Such as Kubernetes, Containers, and Prometheus
 date: 2016-01-25
 icon:
-  name: icon_genius
+  name: icon_mug_alt
 color: purple
 sections:
   - /advanced-topics/z-systems

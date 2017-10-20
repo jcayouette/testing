@@ -1,9 +1,9 @@
 ---
-title: WebUI Reference Manual
-excerpt: Lorem ipsum dolor sit amet, consectetuer adipiscing elit
+title: Reference Manual
+excerpt: WebUI Users Guide
 date: 2016-01-25
 icon:
-  name: icon_datareport_alt
+  name: icon_book
 color: blue
 sections:
   - /charts/chart_js

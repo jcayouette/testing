@@ -1,12 +1,12 @@
 ---
 layout: home
-title: Responsive website template for documentations
+title: SUSE Manager Documentation
 tagline: |
-  Welcome to SUSE Manager Documentation (BETA)
+  Docrevew (BETA)
 
-heading: Elevate Your Docs, Contribute Now!
+heading: SUSE Manager Developers Documentation
 navigation:
-  - /start
+  - /getting-started
   - /components
   - /charts
   - /advanced-topics
@@ -19,6 +19,6 @@ Contributing to SUSE Manager documentation provides our writers with a vast body
 
 <div class="cta-container">
 
-[*&nbsp;*{: .fa .fa-pencil} Start Now!](http://themes.3rdwavemedia.com/){: .btn .btn-primary .btn-cta}
+[*&nbsp;*{: .fa .fa-pencil} Contribute Now!](http://themes.3rdwavemedia.com/){: .btn .btn-blue .btn-cta}
 
 </div>

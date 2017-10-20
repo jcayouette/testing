@@ -3,7 +3,7 @@ title: Glossary
 excerpt: Terminology Reference
 date: 2016-01-25
 icon:
-  name: icon_genius
+  name: icon_lightbulb
 color: primary
 sections:
   - /glossary/glossary

@@ -38,7 +38,7 @@
                 if (Math.floor(Math.abs(lastTop - top)) <= tolerance) {
                     rows[rows.length - 1] = lastRow.add($that);
                 } else {
-                    // otherwise start a new row group
+                    // otherwise getting-started a new row group
                     rows.push($that);
                 }
             }

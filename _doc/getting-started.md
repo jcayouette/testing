@@ -1,20 +1,20 @@
 ---
 title: Getting Started
-excerpt: Setup a SUSE Manager 3.1 Test Environment and a Couple Clients
+excerpt: Setup a Training Environment for Learning SUSE Manager Core Concepts
 date: 2017-10-20
 icon:
   type: fa
   name: fa-paper-plane
 color: green
 sections:
-  - /start/download
-  - /start/installation
-  - /start/code
-  - /start/callouts
-  - /start/tables
-  - /start/buttons
-  - /start/video
-  - /start/icons
+  - /getting-started/overview
+  #- /start/installation
+  #- /start/code
+  #- /start/callouts
+  #- /start/tables
+  #- /start/buttons
+  #- /start/video
+  #- /start/icons
 promo:
   title: "*&nbsp;*{: .fa .fa-heart} [AppKit - Bootstrap Angular Admin Theme for Developers](https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm)"
   link: https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm

@@ -1,9 +1,9 @@
 ---
-title: Best Practice Guide
-excerpt: Lorem ipsum dolor sit amet, consectetuer adipiscing elit
+title: Best Practices
+excerpt: Management & Configuration Tips from Our Experts
 date: 2016-01-25
 icon:
-  name: icon_puzzle_alt
+  name: icon_star
 color: pink
 sections:
   - /components/dashboards
