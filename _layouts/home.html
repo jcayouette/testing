@@ -39,10 +39,11 @@ layout: compress
 </head>
 
 <body class="landing-page">
-
+<!-- -->
 {% if site.share.facebook %}
 {% include facebook.html %}
 {% endif %}
+
 
 <div class="page-wrapper">
 
@@ -51,13 +52,12 @@ layout: compress
         <div class="container">
 
             {% include branding.html %}
-
             <!-- TAGLINE -->
             <div class="tagline">
                 {{ page.tagline | markdownify }}
             </div>
 
-            <!-- SOCIAL -->
+            <!-- SOCIAL
             <div class="social-container">
                 {% if site.share.twitter %}
                 {% include twitter_button.html %}
@@ -69,6 +69,7 @@ layout: compress
                 {% include github_forkme.html %}
                 {% endif %}
             </div>
+            -->
 
         </div>
     </header>

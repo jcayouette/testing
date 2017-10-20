@@ -1,19 +1,21 @@
 ---
-title: License & Credits
-excerpt: Layout for license & credits page. Consectetuer adipiscing elit
+title: Advanced Topics
+excerpt: Layout for FAQ page. Lorem ipsum dolor sit amet, consectetuer adipiscing elit
 date: 2016-01-25
 icon:
-  name: icon_gift
-color: orange
+  name: icon_genius
+color: purple
 sections:
-  - /license/license
-  - /license/credits
+  - /advanced-topics/z-systems
+  #- /advanced-topics/features
+  #- /advanced-topics/pricing
+  #- /advanced-toics/support
 promo:
   title: "*&nbsp;*{: .fa .fa-heart} [AppKit - Bootstrap Angular Admin Theme for Developers](https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm)"
   link: https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm
   image:
     alt: AppKit Theme
-    link: assets/images/demo/appkit-widgets-thumb.jpg
+    link: assets/images/demo/appkit-dashboard-3-thumb.jpg
     icon:
       type: fa
       name: fa-heart pink

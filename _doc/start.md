@@ -1,7 +1,7 @@
 ---
-title: Quick Start
-excerpt: Demo example, consectetuer adipiscing elit
-date: 2016-01-25
+title: Getting Started
+excerpt: Setup a SUSE Manager 3.1 Test Environment and a Couple Clients
+date: 2017-10-20
 icon:
   type: fa
   name: fa-paper-plane

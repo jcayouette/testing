@@ -1,5 +1,5 @@
 ---
-title: Free Themes
+title: Glossary
 ---
 
 <div class="row">

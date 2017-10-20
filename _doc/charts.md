@@ -1,5 +1,5 @@
 ---
-title: Charts
+title: WebUI Reference Manual
 excerpt: Lorem ipsum dolor sit amet, consectetuer adipiscing elit
 date: 2016-01-25
 icon:

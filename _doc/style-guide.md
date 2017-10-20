@@ -1,21 +1,19 @@
 ---
-title: FAQs
-excerpt: Layout for FAQ page. Lorem ipsum dolor sit amet, consectetuer adipiscing elit
+title: Style Guide
+excerpt: Styling Guidelines for Contributors
 date: 2016-01-25
 icon:
-  name: icon_lifesaver
-color: purple
+  name: icon_map
+color: orange
 sections:
-  - /faqs/general
-  - /faqs/features
-  - /faqs/pricing
-  - /faqs/support
+  - /style-guide/style-guide
+  - /style-guide/markdown
 promo:
   title: "*&nbsp;*{: .fa .fa-heart} [AppKit - Bootstrap Angular Admin Theme for Developers](https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm)"
   link: https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm
   image:
     alt: AppKit Theme
-    link: assets/images/demo/appkit-dashboard-3-thumb.jpg
+    link: assets/images/demo/appkit-widgets-thumb.jpg
     icon:
       type: fa
       name: fa-heart pink

@@ -1,5 +1,5 @@
 ---
-title: Components
+title: Best Practice Guide
 excerpt: Lorem ipsum dolor sit amet, consectetuer adipiscing elit
 date: 2016-01-25
 icon:

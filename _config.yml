@@ -52,8 +52,8 @@ owner:
   name: Joseph Cayouette
   twitter: &site_owner_twitter jcayouette
   copyright:
-    notice: "[Docreview](https://your-name.github.io/your-project/)"
-    author: "[Joseph Cayouette](https://www.your-site.com/)"
+    notice: "[SUSE Manager Documentation](https://github.com/SUSE/doc-susemanager)"
+    author: "[SUSE](https://www.suse.com/)"
 
 
 #

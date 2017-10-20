@@ -1,6 +1,6 @@
 ---
-title: PrettyDocs License
-menu_name: License
+title: SUSE Style Guide
+menu_name: style-guide
 ---
 
 <div class="jumbotron text-center">

@@ -34,7 +34,7 @@ $(document).ready(function() {
     /* Ref: https://github.com/liabru/jquery-match-height */
 
     $('#cards-wrapper .item-inner').matchHeight();
-    $('#showcase .card').matchHeight();
+    $('#glossary .card').matchHeight();
 
     /* Bootstrap lightbox */
     /* Ref: http://ashleydw.github.io/lightbox/ */

@@ -2,20 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b87ac1d9-d0a7-442e-b4ac-662ec4a0d8c8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/prism.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/prism.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/highlight.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/styles.css" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/office-space-14.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_doc/showcase/premium_themes.md" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_doc/faqs.md" afterPath="$PROJECT_DIR$/_doc/advanced-topics.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_doc/faqs/features.md" afterPath="$PROJECT_DIR$/_doc/advanced-topics/features.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_doc/faqs/general.md" afterPath="$PROJECT_DIR$/_doc/advanced-topics/z-systems.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_doc/faqs/pricing.md" afterPath="$PROJECT_DIR$/_doc/advanced-topics/pricing.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_doc/faqs/support.md" afterPath="$PROJECT_DIR$/_doc/advanced-topics/support.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_doc/license.md" afterPath="$PROJECT_DIR$/_doc/style-guide.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_doc/license/credits.md" afterPath="$PROJECT_DIR$/_doc/style-guide/credits.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_doc/license/license.md" afterPath="$PROJECT_DIR$/_doc/style-guide/style-guide.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_doc/showcase.md" afterPath="$PROJECT_DIR$/_doc/glossary.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_doc/showcase/free_themes.md" afterPath="$PROJECT_DIR$/_doc/glossary/glossary.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/doc.html" afterPath="$PROJECT_DIR$/_layouts/doc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_doc/charts.md" afterPath="$PROJECT_DIR$/_doc/charts.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_doc/components.md" afterPath="$PROJECT_DIR$/_doc/components.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_doc/start.md" afterPath="$PROJECT_DIR$/_doc/start.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/home.html" afterPath="$PROJECT_DIR$/_layouts/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/styles.scss" afterPath="$PROJECT_DIR$/_sass/styles.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/style.css" afterPath="$PROJECT_DIR$/assets/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/styles.css" afterPath="$PROJECT_DIR$/assets/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/styles.scss" afterPath="$PROJECT_DIR$/assets/css/styles.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/main.js" afterPath="$PROJECT_DIR$/assets/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.md" afterPath="$PROJECT_DIR$/index.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,53 +38,33 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="31" column="1" lean-forward="false" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+            <state relative-caret-position="608">
+              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/home.html">
+      <file leaf-file-name="icon.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/icon.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="95">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="doc.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/doc.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="956">
-              <caret line="112" column="45" lean-forward="false" selection-start-line="112" selection-start-column="45" selection-end-line="112" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/footer.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="start.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_doc/start.md">
+      <file leaf-file-name="charts.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_doc/charts.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="779">
-                <caret line="37" column="3" lean-forward="false" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
+              <first_editor relative-caret-position="114">
+                <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="11" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -87,12 +77,66 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="code.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_doc/start/code.md">
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1080">
-                <caret line="164" column="23" lean-forward="false" selection-start-line="164" selection-start-column="23" selection-end-line="164" selection-end-column="23" />
+              <first_editor relative-caret-position="475">
+                <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+          <provider editor-type-id="Gfm">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="start.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_doc/start.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="38">
+                <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+          <provider editor-type-id="Gfm">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="advanced-topics.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_doc/advanced-topics.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="741">
+                <caret line="34" column="3" lean-forward="false" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+          <provider editor-type-id="Gfm">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style-guide.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_doc/style-guide/style-guide.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="38">
+                <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -113,24 +157,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_doc/charts/inline_charts.md" />
-        <option value="$PROJECT_DIR$/_doc/charts/morris_js.md" />
-        <option value="$PROJECT_DIR$/_doc/components.md" />
-        <option value="$PROJECT_DIR$/_doc/components/app_components.md" />
-        <option value="$PROJECT_DIR$/_doc/components/dashboards.md" />
-        <option value="$PROJECT_DIR$/_doc/components/ui_components.md" />
-        <option value="$PROJECT_DIR$/_doc/faqs.md" />
-        <option value="$PROJECT_DIR$/_doc/faqs/features.md" />
-        <option value="$PROJECT_DIR$/_doc/faqs/general.md" />
-        <option value="$PROJECT_DIR$/_doc/faqs/pricing.md" />
         <option value="$PROJECT_DIR$/_doc/faqs/support.md" />
         <option value="$PROJECT_DIR$/_doc/faqs/license.md" />
         <option value="$PROJECT_DIR$/_doc/license/credits.md" />
         <option value="$PROJECT_DIR$/_doc/license/license.md" />
-        <option value="$PROJECT_DIR$/_doc/showcase.md" />
         <option value="$PROJECT_DIR$/_doc/showcase/free_themes.md" />
         <option value="$PROJECT_DIR$/_doc/showcase/premium_themes.md" />
-        <option value="$PROJECT_DIR$/_doc/start.md" />
         <option value="$PROJECT_DIR$/_doc/start/buttons.md" />
         <option value="$PROJECT_DIR$/_doc/start/callouts.md" />
         <option value="$PROJECT_DIR$/_doc/start/code.md" />
@@ -139,7 +171,6 @@
         <option value="$PROJECT_DIR$/_doc/start/installation.md" />
         <option value="$PROJECT_DIR$/_doc/start/tables.md" />
         <option value="$PROJECT_DIR$/_doc/start/video.md" />
-        <option value="$PROJECT_DIR$/index.md" />
         <option value="$PROJECT_DIR$/assets/less/base.less" />
         <option value="$PROJECT_DIR$/assets/less/doc.less" />
         <option value="$PROJECT_DIR$/assets/less/landing.less" />
@@ -151,19 +182,32 @@
         <option value="$PROJECT_DIR$/_sass/mixins.scss" />
         <option value="$PROJECT_DIR$/_sass/styles.less" />
         <option value="$PROJECT_DIR$/_sass/theme-default.scss" />
-        <option value="$PROJECT_DIR$/_sass/base.scss" />
         <option value="$PROJECT_DIR$/_sass/doc.scss" />
         <option value="$PROJECT_DIR$/_includes/github_forkme.html" />
         <option value="$PROJECT_DIR$/_includes/sidebar.html" />
         <option value="$PROJECT_DIR$/assets/js/main.js" />
         <option value="$PROJECT_DIR$/assets/css/styles.css" />
         <option value="$PROJECT_DIR$/_sass/styles.scss" />
-        <option value="$PROJECT_DIR$/assets/css/style.css" />
         <option value="$PROJECT_DIR$/_site/index.html" />
-        <option value="$PROJECT_DIR$/assets/css/styles.scss" />
         <option value="$PROJECT_DIR$/_layouts/doc.html" />
-        <option value="$PROJECT_DIR$/_layouts/home.html" />
+        <option value="$PROJECT_DIR$/_doc/components.md" />
+        <option value="$PROJECT_DIR$/_doc/charts.md" />
+        <option value="$PROJECT_DIR$/assets/css/style.css" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_sass/base.scss" />
+        <option value="$PROJECT_DIR$/_layouts/home.html" />
+        <option value="$PROJECT_DIR$/_doc/license.md" />
+        <option value="$PROJECT_DIR$/_doc/styleguide.md" />
+        <option value="$PROJECT_DIR$/assets/css/styles.scss" />
+        <option value="$PROJECT_DIR$/_doc/glossary/glossary.md" />
+        <option value="$PROJECT_DIR$/_doc/showcase.md" />
+        <option value="$PROJECT_DIR$/_doc/glossary.md" />
+        <option value="$PROJECT_DIR$/_doc/faqs.md" />
+        <option value="$PROJECT_DIR$/index.md" />
+        <option value="$PROJECT_DIR$/_doc/advanced-topics.md" />
+        <option value="$PROJECT_DIR$/_doc/style-guide/style-guide.md" />
+        <option value="$PROJECT_DIR$/_doc/style-guide.md" />
+        <option value="$PROJECT_DIR$/_doc/start.md" />
       </list>
     </option>
   </component>
@@ -174,9 +218,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="2560" />
-    <option name="height" value="1497" />
+    <option name="x" value="621" />
+    <option name="y" value="317" />
+    <option name="width" value="1920" />
+    <option name="height" value="1079" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -194,6 +239,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -210,7 +256,19 @@
               <item name="docreview" type="b2602c69:ProjectViewProjectNode" />
               <item name="docreview" type="462c0819:PsiDirectoryNode" />
               <item name="_doc" type="462c0819:PsiDirectoryNode" />
-              <item name="start" type="462c0819:PsiDirectoryNode" />
+              <item name="advanced-topics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="docreview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docreview" type="462c0819:PsiDirectoryNode" />
+              <item name="_doc" type="462c0819:PsiDirectoryNode" />
+              <item name="glossary" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="docreview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docreview" type="462c0819:PsiDirectoryNode" />
+              <item name="_doc" type="462c0819:PsiDirectoryNode" />
+              <item name="style-guide" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="docreview" type="b2602c69:ProjectViewProjectNode" />
@@ -231,13 +289,36 @@
               <item name="docreview" type="b2602c69:ProjectViewProjectNode" />
               <item name="docreview" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="docreview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docreview" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="elegant_font" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="docreview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docreview" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="elegant_font" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="docreview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docreview" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="elegant_font" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="PNG" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -247,6 +328,9 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/js" />
       <recent name="$PROJECT_DIR$/assets/css" />
@@ -276,33 +360,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1508445697696</updated>
-      <workItem from="1508445698917" duration="11847000" />
+      <workItem from="1508445698917" duration="11942000" />
+      <workItem from="1508483785604" duration="9625000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11847000" />
+    <option name="totallyTimeSpent" value="21567000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="2560" height="1497" extended-state="6" />
+    <frame x="0" y="24" width="2560" height="1497" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="GfmBrowser" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19062749" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="GfmBrowser" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19221604" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952926" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952926" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952926" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952926" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -317,326 +402,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_doc/charts.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="418">
-            <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-      <provider editor-type-id="Gfm">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_doc/charts/chart_js.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="3059">
-            <caret line="155" column="3" lean-forward="false" selection-start-line="155" selection-start-column="3" selection-end-line="155" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-      <provider editor-type-id="Gfm">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_doc/charts/flot_charts.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1007">
-            <caret line="44" column="33" lean-forward="true" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-      <provider editor-type-id="Gfm">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_doc/charts/inline_charts.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="817">
-            <caret line="36" column="12" lean-forward="false" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-      <provider editor-type-id="Gfm">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_doc/charts/morris_js.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1330">
-            <caret line="67" column="3" lean-forward="false" selection-start-line="67" selection-start-column="3" selection-end-line="67" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-      <provider editor-type-id="Gfm">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_doc/components.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="722">
-            <caret line="33" column="3" lean-forward="false" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-      <provider editor-type-id="Gfm">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_doc/components/app_components.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="4590">
-            <caret line="203" column="128" lean-forward="false" selection-start-line="203" selection-start-column="128" selection-end-line="203" selection-end-column="128" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-      <provider editor-type-id="Gfm">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_doc/components/dashboards.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1691">
-            <caret line="75" column="12" lean-forward="false" selection-start-line="75" selection-start-column="12" selection-end-line="75" selection-end-column="12" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-      <provider editor-type-id="Gfm">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_doc/components/ui_components.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1235">
-            <caret line="46" column="6" lean-forward="false" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-      <provider editor-type-id="Gfm">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_doc/faqs.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="741">
-            <caret line="34" column="3" lean-forward="false" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-      <provider editor-type-id="Gfm">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_doc/faqs/features.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1957">
-            <caret line="86" column="48" lean-forward="false" selection-start-line="86" selection-start-column="48" selection-end-line="86" selection-end-column="48" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-      <provider editor-type-id="Gfm">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_doc/faqs/general.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1345">
-            <caret line="62" column="56" lean-forward="false" selection-start-line="62" selection-start-column="56" selection-end-line="62" selection-end-column="56" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-      <provider editor-type-id="Gfm">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_doc/faqs/pricing.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="931">
-            <caret line="46" column="93" lean-forward="false" selection-start-line="46" selection-start-column="93" selection-end-line="46" selection-end-column="93" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-      <provider editor-type-id="Gfm">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_doc/faqs/support.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="969">
-            <caret line="41" column="106" lean-forward="false" selection-start-line="41" selection-start-column="106" selection-end-line="41" selection-end-column="106" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-      <provider editor-type-id="Gfm">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_doc/license.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="703">
-            <caret line="32" column="3" lean-forward="false" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-      <provider editor-type-id="Gfm">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_doc/license/credits.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="304">
-            <caret line="14" column="34" lean-forward="false" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-      <provider editor-type-id="Gfm">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_doc/license/license.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="665">
-            <caret line="31" column="6" lean-forward="false" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-      <provider editor-type-id="Gfm">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_doc/showcase.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="912">
-            <caret line="43" column="6" lean-forward="false" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-      <provider editor-type-id="Gfm">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_doc/showcase/free_themes.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="893">
-            <caret line="43" column="6" lean-forward="true" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-      <provider editor-type-id="Gfm">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_doc/showcase/premium_themes.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="4085">
-            <caret line="195" column="6" lean-forward="false" selection-start-line="195" selection-start-column="6" selection-end-line="195" selection-end-column="6" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-      <provider editor-type-id="Gfm">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_doc/start/buttons.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -749,14 +514,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/less/mixins.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1313">
-          <caret line="177" column="1" lean-forward="false" selection-start-line="177" selection-start-column="1" selection-end-line="177" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/less/mixins.less" />
     <entry file="file://$PROJECT_DIR$/_sass/theme-default.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
@@ -769,9 +527,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#a#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -783,27 +538,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/mixins.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_sass/landing.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -815,7 +553,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+    <entry file="file://$PROJECT_DIR$/_site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-149">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/highlight.css" />
+    <entry file="file://$PROJECT_DIR$/assets/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding>
+            <marker date="1508484842000" expanded="true" signature="0:10" ph="/*...*/" />
+            <marker date="1508484842000" expanded="true" signature="2345:2370" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/twitter_button.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -823,21 +580,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-149">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#208#214#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.md">
+    <entry file="file://$PROJECT_DIR$/_doc/start/code.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="1" column="9" lean-forward="true" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+          <first_editor relative-caret-position="3135">
+            <caret line="164" column="23" lean-forward="false" selection-start-line="164" selection-start-column="23" selection-end-line="164" selection-end-column="23" />
             <folding />
           </first_editor>
           <second_editor>
@@ -849,7 +596,47 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/base.scss">
+    <entry file="file://$PROJECT_DIR$/_doc/components.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="38">
+            <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+      <provider editor-type-id="Gfm">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/branding.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/google_analytics.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/facebook.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -865,26 +652,74 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/mixins.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2584">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/base.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="604">
+          <caret line="203" column="9" lean-forward="false" selection-start-line="203" selection-start-column="9" selection-end-line="203" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="815">
+          <caret line="301" column="0" lean-forward="false" selection-start-line="301" selection-start-column="0" selection-end-line="301" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/styles.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
-          <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+          <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/highlight.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/navigation.html">
+    <entry file="file://$PROJECT_DIR$/_layouts/compress.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_doc/showcase/premium_themes.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="4085">
+            <caret line="195" column="6" lean-forward="false" selection-start-line="195" selection-start-column="6" selection-end-line="195" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+      <provider editor-type-id="Gfm">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/open_graph.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/promo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
           <folding />
         </state>
       </provider>
@@ -897,7 +732,76 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+    <entry file="file://$PROJECT_DIR$/_layouts/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="47" column="26" lean-forward="false" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_doc/style-guide/credits.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="304">
+            <caret line="14" column="62" lean-forward="false" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+      <provider editor-type-id="Gfm">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_doc/components/dashboards.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="57">
+            <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+      <provider editor-type-id="Gfm">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/thumb.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_doc/glossary/glossary.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="19">
+            <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+      <provider editor-type-id="Gfm">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/doc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="35" column="12" lean-forward="false" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/navigation.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -905,19 +809,131 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/doc.html">
+    <entry file="file://$PROJECT_DIR$/_doc/advanced-topics/features.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+      <provider editor-type-id="Gfm">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/twitter_cards.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="956">
-          <caret line="112" column="45" lean-forward="false" selection-start-line="112" selection-start-column="45" selection-end-line="112" selection-end-column="45" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_doc/start/code.md">
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/icon.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_doc/charts.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1080">
-            <caret line="164" column="23" lean-forward="false" selection-start-line="164" selection-start-column="23" selection-end-line="164" selection-end-column="23" />
+          <first_editor relative-caret-position="114">
+            <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="11" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+      <provider editor-type-id="Gfm">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_doc/glossary.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="95">
+            <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+      <provider editor-type-id="Gfm">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="475">
+            <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+      <provider editor-type-id="Gfm">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_doc/advanced-topics.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="741">
+            <caret line="34" column="3" lean-forward="false" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+      <provider editor-type-id="Gfm">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_doc/style-guide.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="95">
+            <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+      <provider editor-type-id="Gfm">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_doc/style-guide/style-guide.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="38">
+            <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
             <folding />
           </first_editor>
           <second_editor>
@@ -932,8 +948,8 @@
     <entry file="file://$PROJECT_DIR$/_doc/start.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="779">
-            <caret line="37" column="3" lean-forward="false" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
+          <first_editor relative-caret-position="38">
+            <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
             <folding />
           </first_editor>
           <second_editor>
@@ -943,30 +959,6 @@
       </provider>
       <provider editor-type-id="Gfm">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/branding.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" column="1" lean-forward="false" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-          <folding />
-        </state>
       </provider>
     </entry>
   </component>
